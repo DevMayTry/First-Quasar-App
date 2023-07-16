@@ -96,10 +96,6 @@ export default defineComponent({
     td:first-child
       z-index: 1
 
-    td:first-child, th:first-child
-      position: sticky
-      left: 0
-
     /* prevent scrolling behind sticky top row on focus */
     tbody
       /* height of all previous header rows */
