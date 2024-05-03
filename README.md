@@ -1,6 +1,6 @@
 # First Quasar Project (first-quasarjs)
 
-A Quasar Project
+A Quasar Project available in https://64b4695b8ca8dd7dda32a925--publicapis4richard.netlify.app/
 
 ## Install the dependencies
 ```bash
